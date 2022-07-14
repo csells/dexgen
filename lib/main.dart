@@ -20,6 +20,8 @@ CON
 CHA
 COM  
 
+tables: https://docs.google.com/spreadsheets/d/18KCCkWFL2r0nykLJ_j1eMEgGg33vnWh6-ZaZeysfqT0/edit#gid=0
+
 Secondary Skill: %
 Ethnic Background/Race: Human, Dwarf, Elf, Gnome, Half-orc, Dwome, Gelf, Half-dragon
 Country of Birth: %
